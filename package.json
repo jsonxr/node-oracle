@@ -35,7 +35,7 @@
   },
   "scripts": {
     "test": "nodeunit test/integration.js test/outparams.js",
-    "preisntall": "bin/preinstall"
+    "preinstall": "bin/preinstall"
   },
   "main": "./index.js"
 }
